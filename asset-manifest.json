@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9cd196a6.css",
-    "main.js": "/react-gh-pages/static/js/main.08c78a9a.js",
-    "static/js/787.6e649de6.chunk.js": "/react-gh-pages/static/js/787.6e649de6.chunk.js",
-    "static/media/celebration.mp3": "/react-gh-pages/static/media/celebration.68cf7a00d543874aa095.mp3",
-    "static/media/tap.wav": "/react-gh-pages/static/media/tap.ae2de8e7e136703f3626.wav",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9cd196a6.css.map": "/react-gh-pages/static/css/main.9cd196a6.css.map",
-    "main.08c78a9a.js.map": "/react-gh-pages/static/js/main.08c78a9a.js.map",
-    "787.6e649de6.chunk.js.map": "/react-gh-pages/static/js/787.6e649de6.chunk.js.map"
+    "main.css": "/tic-tac-toe/static/css/main.9cd196a6.css",
+    "main.js": "/tic-tac-toe/static/js/main.6596d844.js",
+    "static/js/787.6e649de6.chunk.js": "/tic-tac-toe/static/js/787.6e649de6.chunk.js",
+    "static/media/celebration.mp3": "/tic-tac-toe/static/media/celebration.68cf7a00d543874aa095.mp3",
+    "static/media/tap.wav": "/tic-tac-toe/static/media/tap.ae2de8e7e136703f3626.wav",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.9cd196a6.css.map": "/tic-tac-toe/static/css/main.9cd196a6.css.map",
+    "main.6596d844.js.map": "/tic-tac-toe/static/js/main.6596d844.js.map",
+    "787.6e649de6.chunk.js.map": "/tic-tac-toe/static/js/787.6e649de6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cd196a6.css",
-    "static/js/main.08c78a9a.js"
+    "static/js/main.6596d844.js"
   ]
 }
